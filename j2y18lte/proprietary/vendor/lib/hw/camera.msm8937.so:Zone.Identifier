@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/
+HostUrl=https://raw.githubusercontent.com/TheUbuntuUser/android_vendor_samsung-1/master/msm8917-common/proprietary/vendor/lib/hw/camera.msm8937.so
